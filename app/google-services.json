@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "583232185853",
+    "firebase_url": "https://nckh-tsvid-default-rtdb.firebaseio.com",
+    "project_id": "nckh-tsvid",
+    "storage_bucket": "nckh-tsvid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583232185853:android:2513b62901432c12f7a594",
+        "android_client_info": {
+          "package_name": "com.example.tsvid_175"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583232185853-rtgo93n1ur91p0nlb28l5936ec4m4kmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDatD3W6ulWgDyLtiWYztOWHi7GzVan3-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583232185853-rtgo93n1ur91p0nlb28l5936ec4m4kmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
